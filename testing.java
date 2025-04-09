@@ -6,6 +6,7 @@ class shape{
 class Rectangle extends shape{
     public void area(){
         System.out.println("Inside area");
+        System.out.println("Inside master branch");
     }
 }
 public class testing{
